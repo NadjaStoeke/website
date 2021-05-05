@@ -10,7 +10,7 @@ title: Staff
 |--------------|:---------------------|------|---|
 |   |Name| EMail|Extension|
 |![Lena Gebauer](Lena.JPG)  | Lena Gebauer-Hötzel	| lena.gebauer-hoetzel(at)item.fraunhofer.de|5350 247 |
-|![Hannah Vollmer](Hannah.JPG) | Hannah Vollmer        |  vollmer.hannah(at)mh-hannover.de     |5350 296 |
+|![Nadja Stoeke]| Nadja Stoeke        |  stoeke.nadja(@)mh-hannover.de     |532 1549 |
 
 |Technical Staff|                     |      |    +49 (0)511 -  |
 |--------------|:---------------------|------|-----|
