@@ -36,7 +36,6 @@ title: Staff
 |Wai-Lun Hui| Master Thesis|
 |Malte Kluth| Master Thesis|
 |Shuang Liang| Student research project|
-|Yuyang Mao | Master Thesis|
 |Adrian Onken| Master Thesis|
 |Henry Rake| Bachelor Thesis|
 |Svenja Schudak| Student research project|
