@@ -5,7 +5,7 @@ title: Job Vacancies
 We are looking for motivated Students who would like to write their BA or MA thesis or do their student research projects in our group.
 We are also always happy to have new interns. 
 
-[PDF-Version](StudentJobs.pdf)   
+[PDF-Version](Stellenausschriebung Zwei 01.07.2021 (1).pdf)   
 
 ### PhD Student Position
 
