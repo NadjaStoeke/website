@@ -1,4 +1,3 @@
-[Stellenausschriebung Zwei 01.07.2021 (1).pdf](https://github.com/NadjaStoeke/website/files/6465895/Stellenausschriebung.Zwei.01.07.2021.1.pdf)
 title: Job Vacancies
 
 ### Student Jobs
@@ -6,7 +5,7 @@ title: Job Vacancies
 We are looking for motivated Students who would like to write their BA or MA thesis or do their student research projects in our group.
 We are also always happy to have new interns. 
 
-[PDF-Version](StellenausschriebungZwei01.07.2021(1).pdf)   
+[PDF-Version]
 
 ### PhD Student Position
 
